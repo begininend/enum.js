@@ -38,7 +38,7 @@ class SideEnum extends Enum {
         return !this.right;
     }
 
-    static valueBy = function (isRight) {
+    static valueBy(isRight) {
         return isRight ? SideEnum.RIGHT : SideEnum.LEFT;
     }
 
