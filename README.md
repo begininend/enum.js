@@ -1,5 +1,5 @@
-# enum.js
-JavaScript enum library inspired by java enums
+# es6-enum.js
+JavaScript enum library inspired by java enums using es6
 
 # The basic usage
 
